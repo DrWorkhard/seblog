@@ -1,4 +1,4 @@
-# Teaching a million parameter Transformer to add two small numbers
+# Adding two small numbers with a multi-million parameter Transformer
 
 > When you have a hammer - everything looks like a nail
 >
